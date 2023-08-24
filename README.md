@@ -43,8 +43,8 @@
     <li>Set up the database:</li>
 </ol>
 <ul>
-    <li>Modify the <code>config.py</code> file with your database configuration</li>
-    <li>Run the <code>create_database.sql</code> script in your SQL database</li>
+    <li>Modify the <code>db.py</code> file with your database configuration</li>
+    
 </ul>
 
 <h2>Usage</h2>
